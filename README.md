@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I’m thedarkhorse934 👋
 
-<!--
-**thedarkhorse934/thedarkhorse934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web3 developer with hands-on experience building and deploying Solidity smart contracts on Ethereum testnets.
 
-Here are some ideas to get you started:
+### What I’ve Built 🏗️
+- Deployed and verified a custom ERC-20 token on Sepolia (JMTK)
+- Implemented multiple Solidity contracts covering storage, Ether handling, access control, and events
+- Maintained a documented Solidity learning portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus 🎯
+- Strengthening smart contract fundamentals
+- Working with on-chain data
+- Exploring how AI can be used to interpret blockchain activity
+
+### Tech 💻
+- Solidity
+- Ethereum
+- OpenZeppelin
+- Hardhat
+- Git / GitHub
