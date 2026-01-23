@@ -3,6 +3,9 @@
 Junior Web3 developer with hands-on experience building and deploying Solidity smart contracts on Ethereum testnets. I enjoy creating practical blockchain projects and exploring how AI can enhance smart contract insights.
 
 ### What I’ve Built 🏗️
+- **Python Smart Contract Write Interaction** - Python Smart Contract Write Interaction.
+- **Smart Contract Python Interaction (Read-Only)** - Smart Contract Python Interaction (Read-Only).
+- **AI Blockchain Explainer** - Python tool that explains raw Ethereum transaction data in plain English.
 - **JMTK ERC-20 Token** – Deployed and verified on Sepolia, integrated with MetaMask.  
 - **Solidity Learning Portfolio** – Multiple contracts covering storage, Ether handling, access control, and events.  
 - Documented each project with clear READMEs, design notes, and learning reflections.
