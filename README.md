@@ -3,6 +3,8 @@
 Junior Web3 developer with hands-on experience building and deploying Solidity smart contracts on Ethereum testnets. I enjoy creating practical blockchain projects and exploring how AI can enhance smart contract insights.
 
 ### What I’ve Built 🏗️
+- **Uniswap V2 Monitor** - CLI-based on-chain monitor for Uniswap V2 liquidity, ETH/USD pricing, and alerting.
+- **Token Analzyer** - CLI-based token analysis tool for inspecting, filtering, and experimenting with token-related data.
 - **Python Smart Contract Write Interaction** - Python script that signs and sends state-changing Ethereum transactions.
 - **Smart Contract Python Interaction (Read-Only)** - Python application that reads and interprets Ethereum smart contract data.
 - **AI Blockchain Explainer** - Python tool that explains raw Ethereum transaction data in plain English.
