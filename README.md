@@ -14,12 +14,15 @@ Junior Web3 developer with hands-on experience building and deploying Solidity s
 
 ### Current Focus 🎯
 - Strengthening smart contract fundamentals  
-- Working with on-chain data and event indexing  
+- Building on-chain monitoring and alerting tools using live Ethereum data
 - Exploring AI-assisted blockchain tooling (e.g., transaction summarization, contract analysis)
 
 ### Tech 💻
 - Solidity | Ethereum | OpenZeppelin | Hardhat  
-- JavaScript / Node.js | Python | GitHub  
+- JavaScript / Node.js | Python | GitHub
+
+- Solidity | Ethereum | OpenZeppelin | Hardhat | Python
+JavaScript / Node.js | ethers.js | On-chain data | Git/GitHub
 
 ### Let’s Connect
 I’m open to contributing to entry-level Web3 projects, collaborating on AI + blockchain tools, and learning from experienced developers.  
