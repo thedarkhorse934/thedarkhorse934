@@ -8,6 +8,11 @@ My projects focus on combining **smart contracts, real-time data, and analysis t
 
 ---
 
+⭐ Featured Project
+Uniswap Observatory – Real-time DeFi monitoring engine
+
+---
+
 ## What I’ve Built 🏗️
 
 **Uniswap Observatory**
