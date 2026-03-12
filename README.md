@@ -43,10 +43,10 @@ Each project includes documentation, design notes, and reflections on what was l
 
 ## Current Focus 🎯
 
-• Building **on-chain monitoring tools** for DeFi markets
-• Improving real-time **blockchain observability systems**
-• Exploring **AI-assisted blockchain analysis tools**
-• Expanding observatories beyond DeFi (e.g. Bitcoin whale monitoring)
+- Building **on-chain monitoring tools** for DeFi markets
+- Improving real-time **blockchain observability systems**
+- Exploring **AI-assisted blockchain analysis tools**
+- Expanding observatories beyond DeFi (e.g. Bitcoin whale monitoring)
 
 ---
 
