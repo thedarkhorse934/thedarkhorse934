@@ -1,73 +1,125 @@
 # Hi, I’m thedarkhorse934 👋
 
-Blockchain developer exploring **on-chain observability, DeFi behaviour, and blockchain intelligence systems.**
+Blockchain developer focused on **on-chain observability, blockchain intelligence, and DeFi monitoring systems.**
 
-I enjoy building tools that monitor **live blockchain activity** and help make sense of what is happening inside decentralised networks.
+I enjoy building tools that monitor **live blockchain activity** and help explain what is happening inside decentralised networks.
 
-My projects focus on combining **smart contracts, real-time data, and analysis tools** to better understand blockchain systems.
-
----
-
-## ⭐ Featured Projects
-
-**Uniswap Observatory**
-Real-time monitoring engine for Uniswap V2 liquidity pools.
-Tracks liquidity shifts, price movement, flow intensity, and market risk signals across major Ethereum trading pairs.
-
-**Bitcoin Whale Radar**
-Terminal-based Bitcoin monitoring tool that detects large BTC transfers and whale activity directly from blockchain data.
+My work focuses on **real-time blockchain monitoring, whale detection, liquidity analysis, and behavioural signals across on-chain markets.**
 
 ---
 
-## 🏗️ What I’ve Built
+# 🔭 Monitoring & Intelligence Systems
 
-**Uniswap Observatory**
-CLI-based real-time monitor for Uniswap V2 liquidity pools. Tracks pool state, liquidity changes, price movement, and on-chain activity signals.
+These projects focus on **observing blockchain behaviour in real time and extracting meaningful signals from raw on-chain data.**
 
-**Bitcoin Whale Radar**
-Detects and reports large BTC movements and whale transactions using live blockchain data.
+### Uniswap Observatory
 
-**Token Analyzer**
-CLI-based token analysis tool for inspecting, validating, and experimenting with ERC-20 token data.
+Real-time monitoring engine for **Uniswap V2 liquidity pools**.
 
-**Python Smart Contract Write Interaction**
-Python script that signs and sends state-changing Ethereum transactions.
+Tracks:
 
-**Smart Contract Python Interaction (Read-Only)**
-Python application that reads and interprets Ethereum smart contract state.
+* Liquidity changes
+* Swap activity
+* Flow intensity
+* Volatility regimes
+* Liquidity depth fragility
+* MEV-style activity signals
 
-**AI Blockchain Explainer**
-Python tool that converts raw Ethereum transaction data into plain-English explanations.
-
-**JMTK ERC-20 Token**
-Custom token deployed and verified on Sepolia and integrated with MetaMask.
-
-**Solidity Learning Portfolio**
-Collection of smart contracts exploring storage patterns, Ether transfers, access control, and events.
-
-Each project includes documentation, design notes, and reflections on what was learned.
+Built using **Node.js + ethers.js + Ethereum mainnet RPC**.
 
 ---
 
-## 🎯 Current Focus
+### Bitcoin Whale Radar
 
-- Building blockchain monitoring and observability tools
-- Developing the **BTC Intelligence Terminal** for large Bitcoin transaction analysis
-- Expanding monitoring systems beyond DeFi markets
-- Exploring AI-assisted blockchain analytics
+Terminal-based monitoring tool that detects **large Bitcoin transfers and whale movements** directly from blockchain data.
+
+Features:
+
+* Whale transaction detection
+* Block monitoring
+* Exchange flow observation
+* Real-time whale alerts
+
+Built using **Node.js and mempool.space API**.
 
 ---
 
-## 💻 Tech
+### BTC Intelligence Terminal *(In Development)*
+
+A terminal-based system designed to monitor **large Bitcoin transactions and behavioural signals across the BTC network.**
+
+Planned capabilities include:
+
+* Whale transfer analysis
+* Exchange flow monitoring
+* Transaction pattern detection
+* Behavioural signals from large wallets
+
+---
+
+# 🏗️ Additional Projects
+
+### Token Analyzer
+
+CLI-based ERC-20 token analysis tool for inspecting token contracts and metadata.
+
+---
+
+### Python Smart Contract Interaction
+
+Python applications that interact with Ethereum smart contracts.
+
+Includes:
+
+* Read-only state inspection
+* Signed state-changing transactions
+
+---
+
+### AI Blockchain Explainer
+
+Python tool that converts raw Ethereum transaction data into **plain-English explanations**.
+
+---
+
+### JMTK ERC-20 Token
+
+Custom ERC-20 token deployed and verified on **Sepolia testnet**, integrated with MetaMask.
+
+---
+
+### Solidity Learning Portfolio
+
+Collection of Solidity contracts exploring:
+
+* Storage patterns
+* Ether transfers
+* Access control
+* Events
+* Smart contract design patterns
+
+---
+
+# 🎯 Current Focus
+
+- Building **blockchain monitoring and intelligence tools**
+- Expanding observability systems beyond Ethereum DeFi
+- Developing the **BTC Intelligence Terminal**
+- Exploring AI-assisted blockchain analysis
+
+---
+
+# 💻 Tech Stack
 
 Solidity | Ethereum | OpenZeppelin | Hardhat
-Python | JavaScript / Node.js | ethers.js
-On-chain data | CLI tools | Git | GitHub
+JavaScript / Node.js | ethers.js
+Python | On-chain data analysis
+CLI monitoring tools | Git | GitHub
 
 ---
 
-## 🤝 Let’s Connect
+# 🤝 Let’s Connect
 
-I’m interested in contributing to **blockchain analytics, monitoring infrastructure, and data-driven crypto projects.**
+Interested in contributing to **blockchain analytics, monitoring infrastructure, and data-driven crypto projects.**
 
 Always happy to collaborate, learn from experienced developers, and explore new ideas in the blockchain space.
