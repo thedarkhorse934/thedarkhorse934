@@ -51,10 +51,10 @@ Each project includes documentation, design notes, and reflections on what was l
 
 ## 🎯 Current Focus
 
-• Building blockchain monitoring and observability tools
-• Developing the **BTC Intelligence Terminal** for large Bitcoin transaction analysis
-• Expanding monitoring systems beyond DeFi markets
-• Exploring AI-assisted blockchain analytics
+- Building blockchain monitoring and observability tools
+- Developing the **BTC Intelligence Terminal** for large Bitcoin transaction analysis
+- Expanding monitoring systems beyond DeFi markets
+- Exploring AI-assisted blockchain analytics
 
 ---
 
