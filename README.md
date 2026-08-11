@@ -1,125 +1,169 @@
-# Hi, I’m thedarkhorse934 👋
+# Hi, I'm thedarkhorse934 👋
 
-Blockchain developer focused on **on-chain observability, blockchain intelligence, and DeFi monitoring systems.**
+I'm building **blockchain intelligence and on-chain analysis systems**, with a current focus on Bitcoin.
 
-I enjoy building tools that monitor **live blockchain activity** and help explain what is happening inside decentralised networks.
+My main project is **Blockchain Intelligence Terminal (BIT)** — a private intelligence platform designed to transform raw blockchain activity into structured, explainable intelligence.
 
-My work focuses on **real-time blockchain monitoring, whale detection, liquidity analysis, and behavioural signals across on-chain markets.**
+Rather than simply detecting transactions, I'm interested in understanding the behaviour behind them.
 
 ---
 
-# 🔭 Monitoring & Intelligence Systems
+## 🧠 Blockchain Intelligence Terminal
 
-These projects focus on **observing blockchain behaviour in real time and extracting meaningful signals from raw on-chain data.**
+### [Blockchain Intelligence Terminal — BIT](https://github.com/thedarkhorse934/blockchain-intelligence-terminal)
+
+BIT is my primary research and development project.
+
+Bitcoin currently forms the core intelligence layer, with data ingested directly through my own Bitcoin Core node.
+
+Current areas of development include:
+
+* 🐋 Whale transaction detection
+* ⏳ Dormancy and historical coin analysis
+* 🏦 Exchange flow intelligence
+* 🧩 Entity attribution
+* 🔗 Wallet and entity relationship analysis
+* 📊 Behavioural signals
+* 🚨 Intelligence case building
+* 🤖 AI-assisted blockchain interpretation
+* 💵 Stablecoin intelligence
+* 🌐 Real-world asset research
+
+The production BIT codebase remains private while the intelligence architecture is developed.
+
+The public repository documents the system's architecture, capabilities and development progress.
+
+---
+
+## 🔭 What I'm Interested In
+
+I'm particularly interested in the point where:
+
+**blockchain data + software + market behaviour + AI**
+
+become useful intelligence.
+
+Current research interests include:
+
+* Bitcoin
+* On-chain analytics
+* Blockchain intelligence
+* Entity attribution
+* Exchange flows
+* Dormant asset movements
+* Transaction behaviour
+* Blockchain data infrastructure
+* Stablecoins
+* Tokenised real-world assets
+* AI-assisted analysis
+
+---
+
+## 🏗️ How I Got Here
+
+My blockchain work has progressively moved from learning how blockchain systems operate toward building systems that monitor and interpret them.
+
+```text
+Solidity Fundamentals
+        ↓
+Smart Contract Interaction
+        ↓
+Ethereum / DeFi Monitoring
+        ↓
+Uniswap Observatory
+        ↓
+Bitcoin Whale Radar
+        ↓
+Blockchain Intelligence Terminal
+```
+
+Each project has contributed something to the next.
+
+Today, most of my development time is focused on BIT and the problem of extracting meaningful intelligence from raw on-chain activity.
+
+---
+
+## 📡 Previous Monitoring Projects
+
+### Bitcoin Whale Radar
+
+Terminal-based Bitcoin monitoring tool built to detect large Bitcoin transfers in real time.
+
+This project became one of the foundations for the much larger Blockchain Intelligence Terminal architecture.
+
+---
 
 ### Uniswap Observatory
 
-Real-time monitoring engine for **Uniswap V2 liquidity pools**.
+Real-time monitoring system for Uniswap V2 liquidity pools.
 
-Tracks:
+Research included:
 
 * Liquidity changes
 * Swap activity
 * Flow intensity
 * Volatility regimes
-* Liquidity depth fragility
-* MEV-style activity signals
+* Liquidity depth
+* Market behaviour signals
 
-Built using **Node.js + ethers.js + Ethereum mainnet RPC**.
-
----
-
-### Bitcoin Whale Radar
-
-Terminal-based monitoring tool that detects **large Bitcoin transfers and whale movements** directly from blockchain data.
-
-Features:
-
-* Whale transaction detection
-* Block monitoring
-* Exchange flow observation
-* Real-time whale alerts
-
-Built using **Node.js and mempool.space API**.
+Built using Node.js, ethers.js and Ethereum mainnet RPC infrastructure.
 
 ---
 
-### BTC Intelligence Terminal *(In Development)*
+## 🧪 Earlier Blockchain Projects
 
-A terminal-based system designed to monitor **large Bitcoin transactions and behavioural signals across the BTC network.**
+My earlier repositories document the learning path that led into blockchain intelligence development.
 
-Planned capabilities include:
+They include:
 
-* Whale transfer analysis
-* Exchange flow monitoring
-* Transaction pattern detection
-* Behavioural signals from large wallets
+* ERC-20 token development
+* Solidity smart contracts
+* Python smart contract interaction
+* Ethereum transaction analysis
+* Token analysis
+* AI-assisted transaction explanation
 
----
-
-# 🏗️ Additional Projects
-
-### Token Analyzer
-
-CLI-based ERC-20 token analysis tool for inspecting token contracts and metadata.
+I've kept these projects public because they show the progression from learning blockchain development fundamentals to building larger monitoring and intelligence systems.
 
 ---
 
-### Python Smart Contract Interaction
+## 💻 Technology
 
-Python applications that interact with Ethereum smart contracts.
-
-Includes:
-
-* Read-only state inspection
-* Signed state-changing transactions
-
----
-
-### AI Blockchain Explainer
-
-Python tool that converts raw Ethereum transaction data into **plain-English explanations**.
-
----
-
-### JMTK ERC-20 Token
-
-Custom ERC-20 token deployed and verified on **Sepolia testnet**, integrated with MetaMask.
+```text
+JavaScript / Node.js
+Bitcoin Core
+Bitcoin Core RPC
+Ethereum
+ethers.js
+Python
+Solidity
+On-chain data analysis
+CLI / terminal applications
+Git / GitHub
+AI-assisted development
+```
 
 ---
 
-### Solidity Learning Portfolio
+## 🎯 Current Focus
 
-Collection of Solidity contracts exploring:
+Most of my current work is concentrated on improving BIT's underlying intelligence engine.
 
-* Storage patterns
-* Ether transfers
-* Access control
-* Events
-* Smart contract design patterns
+The priorities are:
 
----
+**better data → better attribution → better context → better intelligence**
 
-# 🎯 Current Focus
-
-- Building **blockchain monitoring and intelligence tools**
-- Expanding observability systems beyond Ethereum DeFi
-- Developing the **BTC Intelligence Terminal**
-- Exploring AI-assisted blockchain analysis
+The longer-term objective is to explore what becomes possible once the underlying intelligence is reliable enough to support increasingly sophisticated analysis.
 
 ---
 
-# 💻 Tech Stack
+## 🤝 Connect
 
-Solidity | Ethereum | OpenZeppelin | Hardhat
-JavaScript / Node.js | ethers.js
-Python | On-chain data analysis
-CLI monitoring tools | Git | GitHub
+I'm interested in blockchain intelligence, analytics, infrastructure and data-driven crypto projects.
+
+Always interested in speaking with people working on similar problems — particularly around Bitcoin data, on-chain intelligence and blockchain analytics.
 
 ---
 
-# 🤝 Let’s Connect
+> **Building systems that explain what is happening on-chain, not just systems that report transactions.**
 
-Interested in contributing to **blockchain analytics, monitoring infrastructure, and data-driven crypto projects.**
-
-Always happy to collaborate, learn from experienced developers, and explore new ideas in the blockchain space.
