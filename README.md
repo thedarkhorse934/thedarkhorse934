@@ -1,67 +1,66 @@
 # Hi, I'm thedarkhorse934 👋
 
-I'm building **blockchain intelligence and on-chain analysis systems**, with a current focus on Bitcoin.
+**Bitcoin & Digital Asset Intelligence · On-chain Research · Perpetual Futures Market Structure**
 
-My main project is **Blockchain Intelligence Terminal (BIT)** — a private intelligence platform designed to transform raw blockchain activity into structured, explainable intelligence.
+I'm building **IDMON — Digital Asset Intelligence**, an independent Bitcoin-native research system combining on-chain intelligence, derivatives market structure, prospective quantitative research, and evidence-gated decision testing.
 
-Rather than simply detecting transactions, I'm interested in understanding the behaviour behind them.
+My work sits at the intersection of:
 
----
-
-## 🧠 Blockchain Intelligence Terminal
-
-### [Blockchain Intelligence Terminal — BIT](https://github.com/thedarkhorse934/blockchain-intelligence-terminal)
-
-BIT is my primary research and development project.
-
-Bitcoin currently forms the core intelligence layer, with data ingested directly through my own Bitcoin Core node.
-
-Current areas of development include:
-
-* 🐋 Whale transaction detection
-* ⏳ Dormancy and historical coin analysis
-* 🏦 Exchange flow intelligence
-* 🧩 Entity attribution
-* 🔗 Wallet and entity relationship analysis
-* 📊 Behavioural signals
-* 🚨 Intelligence case building
-* 🤖 AI-assisted blockchain interpretation
-* 💵 Stablecoin intelligence
-* 🌐 Real-world asset research
-
-The production BIT codebase remains private while the intelligence architecture is developed.
-
-The public repository documents the system's architecture, capabilities and development progress.
+**Blockchains · Bitcoin · Perpetual Futures**
 
 ---
 
-## 🔭 What I'm Interested In
+## 🧠 Main Project — IDMON
 
-I'm particularly interested in the point where:
+### [IDMON — Digital Asset Intelligence](https://github.com/thedarkhorse934/blockchain-intelligence-terminal)
 
-**blockchain data + software + market behaviour + AI**
+IDMON began as **BIT — Blockchain Intelligence Terminal**, a system focused on transforming raw Bitcoin transaction activity into structured, explainable intelligence.
 
-become useful intelligence.
+As the project developed, it expanded beyond transaction monitoring into a broader research platform.
 
-Current research interests include:
+Today, IDMON combines:
 
-* Bitcoin
-* On-chain analytics
-* Blockchain intelligence
-* Entity attribution
-* Exchange flows
-* Dormant asset movements
-* Transaction behaviour
-* Blockchain data infrastructure
-* Stablecoins
-* Tokenised real-world assets
-* AI-assisted analysis
+- ₿ Bitcoin Core-native transaction ingestion
+- 🐋 Whale and exchange-flow intelligence
+- ⏳ Dormancy and historical coin analysis
+- 🧩 Entity behaviour and attribution
+- 🔗 Route recurrence, activity episodes, and relay campaigns
+- 💧 Hyperliquid BTC perpetual-futures data
+- 📊 Deribit market-structure data
+- 🧪 Prospective T0-aligned quantitative research
+- 🧭 ETF and macro market context
+- ⚖️ Evidence-gated `TRADE / NO_TRADE` decision research
+- 🤖 AI-assisted interpretation constrained by deterministic evidence
+
+The production intelligence engine remains private while the public repository documents the project's architecture, research direction, and development progress.
+
+**[Read the full IDMON case study →](https://github.com/thedarkhorse934/blockchain-intelligence-terminal/blob/main/docs/IDMON_CASE_STUDY.md)**
+
+---
+
+## 🔬 How I Think About Research
+
+I'm interested in building systems that preserve uncertainty rather than hide it.
+
+Some principles behind IDMON:
+
+> **Unknown remains unknown.**
+
+> **Bitcoin movement does not automatically mean selling.**
+
+> **Correlation does not establish causation.**
+
+> **Descriptive evidence is not automatically predictive edge.**
+
+> **NO_TRADE is a legitimate outcome.**
+
+The objective is not to force the system to produce market calls. It is to test whether evidence is strong enough to justify one.
 
 ---
 
 ## 🏗️ How I Got Here
 
-My blockchain work has progressively moved from learning how blockchain systems operate toward building systems that monitor and interpret them.
+My blockchain work has progressed from learning the underlying systems to building increasingly sophisticated monitoring and intelligence tools.
 
 ```text
 Solidity Fundamentals
@@ -74,56 +73,32 @@ Uniswap Observatory
         ↓
 Bitcoin Whale Radar
         ↓
-Blockchain Intelligence Terminal
+BIT — Blockchain Intelligence Terminal
+        ↓
+IDMON — Digital Asset Intelligence
 ```
 
-Each project has contributed something to the next.
-
-Today, most of my development time is focused on BIT and the problem of extracting meaningful intelligence from raw on-chain activity.
+Each project contributed something to the next.
 
 ---
 
-## 📡 Previous Monitoring Projects
+## 📡 Selected Earlier Projects
 
 ### Bitcoin Whale Radar
 
 Terminal-based Bitcoin monitoring tool built to detect large Bitcoin transfers in real time.
 
-This project became one of the foundations for the much larger Blockchain Intelligence Terminal architecture.
-
----
+It became one of the foundations for the much larger IDMON architecture.
 
 ### Uniswap Observatory
 
-Real-time monitoring system for Uniswap V2 liquidity pools.
+Real-time monitoring system for Uniswap V2 liquidity pools, including liquidity changes, swaps, flow intensity, volatility regimes, and market behaviour.
 
-Research included:
+### Earlier Blockchain Work
 
-* Liquidity changes
-* Swap activity
-* Flow intensity
-* Volatility regimes
-* Liquidity depth
-* Market behaviour signals
+My public repositories also document earlier work across Solidity, ERC-20 development, Python smart-contract interaction, Ethereum transaction analysis, and AI-assisted blockchain explanation.
 
-Built using Node.js, ethers.js and Ethereum mainnet RPC infrastructure.
-
----
-
-## 🧪 Earlier Blockchain Projects
-
-My earlier repositories document the learning path that led into blockchain intelligence development.
-
-They include:
-
-* ERC-20 token development
-* Solidity smart contracts
-* Python smart contract interaction
-* Ethereum transaction analysis
-* Token analysis
-* AI-assisted transaction explanation
-
-I've kept these projects public because they show the progression from learning blockchain development fundamentals to building larger monitoring and intelligence systems.
+I keep these projects public because they show the progression from learning fundamentals to building larger research systems.
 
 ---
 
@@ -131,39 +106,49 @@ I've kept these projects public because they show the progression from learning 
 
 ```text
 JavaScript / Node.js
-Bitcoin Core
-Bitcoin Core RPC
-Ethereum
-ethers.js
+Bitcoin Core / Bitcoin JSON-RPC
+Ethereum / ethers.js
 Python
 Solidity
 On-chain data analysis
+Time-series research pipelines
 CLI / terminal applications
 Git / GitHub
-AI-assisted development
+AI-assisted software development and research
 ```
 
 ---
 
 ## 🎯 Current Focus
 
-Most of my current work is concentrated on improving BIT's underlying intelligence engine.
+My current learning and development focus is deliberately concentrated around three connected areas:
 
-The priorities are:
+**Blockchains · Bitcoin · Perpetual Futures**
 
-**better data → better attribution → better context → better intelligence**
+Within IDMON, the main research frontier is understanding whether Bitcoin-native on-chain intelligence combined with Hyperliquid / Deribit market structure can improve real decision quality.
 
-The longer-term objective is to explore what becomes possible once the underlying intelligence is reliable enough to support increasingly sophisticated analysis.
-
----
-
-## 🤝 Connect
-
-I'm interested in blockchain intelligence, analytics, infrastructure and data-driven crypto projects.
-
-Always interested in speaking with people working on similar problems — particularly around Bitcoin data, on-chain intelligence and blockchain analytics.
+The goal is not to assume an edge exists — it is to build the research infrastructure required to test whether one does.
 
 ---
 
-> **Building systems that explain what is happening on-chain, not just systems that report transactions.**
+## 🤝 Open to Opportunities
 
+I'm interested in paid work, collaborations, and small projects involving:
+
+- Bitcoin research
+- Digital-asset intelligence
+- On-chain analysis
+- Crypto market research
+- Research tooling
+- Data quality / research operations
+- Blockchain monitoring
+- Market-structure research
+- Data-driven product development
+
+My professional background is analytical rather than traditional software engineering, with more than a decade of experience working with complex evidence, regulation, casework, and uncertain information in an advisory environment.
+
+I'm particularly interested in opportunities where that analytical background can be combined with the technical and market-research skills I've developed through IDMON.
+
+---
+
+> **Building systems that explain what is happening, preserve what is uncertain, and test what actually happens next.**
