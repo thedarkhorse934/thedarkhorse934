@@ -2,7 +2,7 @@
 
 **Bitcoin & Digital Asset Intelligence · On-chain Research · Perpetual Futures Market Structure**
 
-I'm building **IDMON — Digital Asset Intelligence**, an independent Bitcoin-native research system combining on-chain intelligence, derivatives market structure, prospective quantitative research, and evidence-gated decision testing.
+I'm building **iDMON — Digital Asset Intelligence**, an independent Bitcoin-native research system combining on-chain intelligence, derivatives market structure, prospective quantitative research, and evidence-gated decision testing.
 
 My work sits at the intersection of:
 
@@ -10,15 +10,15 @@ My work sits at the intersection of:
 
 ---
 
-## 🧠 Main Project — IDMON
+## 🧠 Main Project — iDMON
 
 ### [IDMON — Digital Asset Intelligence](https://github.com/thedarkhorse934/blockchain-intelligence-terminal)
 
-IDMON began as **BIT — Blockchain Intelligence Terminal**, a system focused on transforming raw Bitcoin transaction activity into structured, explainable intelligence.
+iDMON began as **BIT — Blockchain Intelligence Terminal**, a system focused on transforming raw Bitcoin transaction activity into structured, explainable intelligence.
 
 As the project developed, it expanded beyond transaction monitoring into a broader research platform.
 
-Today, IDMON combines:
+Today, iDMON combines:
 
 - ₿ Bitcoin Core-native transaction ingestion
 - 🐋 Whale and exchange-flow intelligence
@@ -125,7 +125,7 @@ My current learning and development focus is deliberately concentrated around th
 
 **Blockchains · Bitcoin · Perpetual Futures**
 
-Within IDMON, the main research frontier is understanding whether Bitcoin-native on-chain intelligence combined with Hyperliquid / Deribit market structure can improve real decision quality.
+Within iDMON, the main research frontier is understanding whether Bitcoin-native on-chain intelligence combined with Hyperliquid / Deribit market structure can improve real decision quality.
 
 The goal is not to assume an edge exists — it is to build the research infrastructure required to test whether one does.
 
